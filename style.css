@@ -17,6 +17,7 @@ section {
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+}
 
 
     img {
@@ -28,7 +29,7 @@ section {
         display: flex;
         overflow-x: auto;
         padding-right: 10px;
-        gap: 10px
+        gap: 10px;
     }
 
     h2 {
